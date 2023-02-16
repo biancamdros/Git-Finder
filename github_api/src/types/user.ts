@@ -2,6 +2,6 @@ export type UserProps = {
     avatar_url: string;
     login: string;
     location: string;
-    follower: number;
+    followers: number;
     following: number;
 };
